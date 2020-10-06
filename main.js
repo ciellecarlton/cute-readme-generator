@@ -3,22 +3,22 @@ var inquirer = require('inquirer');
 inquirer
   .prompt([
     {
-      message: "What is the projects name?",
+      message: "What is your name?",
       type: "input",
       name: "projectName",
 
     },
     {
-      message: "What is your name?",
+      message: "What is the name of your project?",
       type: "input",
       name: "name",
 
     },
     {
-      message: "What is your name?",
+      message: "Enter project description",
       type: "input",
-      name:
-   }
+      name: "description"
+   },
 
   ])
 
