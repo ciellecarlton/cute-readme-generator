@@ -104,8 +104,7 @@ inquirer.prompt([
 
 
     fs.writeFile("readme.md", markdown, function (err, data) {
-      console.log('file written')
-    // console.log(answers.description)
+  
     // Use user feedback for... whatever!!
     })
   })

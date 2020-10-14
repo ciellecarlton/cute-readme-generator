@@ -1,11 +1,14 @@
 
-# cielle
+# readme.md generator
 
 ## Name
-    cielle
+    cielle belle
     
 ## Description
-    cute
+    this project uses inquirer.prompt to ask for input from the user. Then it writes a marktown file withthe information prompt.
+
+    video of generator:
+     https://drive.google.com/file/d/12K-V7PRv0Hw2glDAgG9AZsYpipE0-g8d/view
     
 ### Install Instructions
     node index.js
@@ -14,7 +17,7 @@
     undefined
     
 ### Useage Info
-    awesome
+    Practice
     
 ### Licenese
     MIT
